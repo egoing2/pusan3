@@ -1,5 +1,5 @@
 function egoing(){
-	return "egoing";
+	return "egoing1";
 }
 
 function leezche(){

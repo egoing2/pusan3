@@ -1,3 +1,7 @@
 function egoing(){
 	
 }
+
+function leezche(){
+	
+}
